@@ -108,6 +108,8 @@ Contributions are welcome!
 * Dark mode UI
 
 ---
+link of working project
+https://resolute-study-genie-flow.base44.app/Summarizer
 
 ## 📄 License
 
